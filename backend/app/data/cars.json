@@ -1,0 +1,597 @@
+[
+  {
+    "brand": "Hyundai",
+    "model": "Creta",
+    "variant": "SX(O) 1.5 Petrol IVT",
+    "price": 1820000,
+    "transmission": "Automatic",
+    "fuel_type": "Petrol",
+    "mileage": 17.4,
+    "engine": "1.5L",
+    "safety_rating": 3.0,
+    "airbags": 6,
+    "adas": "Level 2",
+    "boot_space_l": 433,
+    "ground_clearance_mm": 190,
+    "maintenance_cost_annual": 16000,
+    "service_cost_annual": 9000,
+    "reviews": [
+      "Refined cabin",
+      "Feature-rich ownership experience"
+    ],
+    "pros": [
+      "Smooth automatic",
+      "Premium interior",
+      "Strong feature list"
+    ],
+    "cons": [
+      "Average safety score",
+      "Higher variant price"
+    ],
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "image_url": "https://images.unsplash.com/photo-1542362567-b07e54358753?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Honda",
+    "model": "Elevate",
+    "variant": "ZX CVT",
+    "price": 1680000,
+    "transmission": "Automatic",
+    "fuel_type": "Petrol",
+    "mileage": 16.9,
+    "engine": "1.5L",
+    "safety_rating": 5.0,
+    "airbags": 6,
+    "adas": "LaneWatch",
+    "boot_space_l": 458,
+    "ground_clearance_mm": 220,
+    "maintenance_cost_annual": 13000,
+    "service_cost_annual": 8000,
+    "reviews": [
+      "Confident highway manners",
+      "Reliable and easy to live with"
+    ],
+    "pros": [
+      "Excellent ground clearance",
+      "Reliable petrol engine",
+      "Large boot"
+    ],
+    "cons": [
+      "Cabin feels simpler",
+      "No hybrid option"
+    ],
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "image_url": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "variant": "Zeta+ Hybrid e-CVT",
+    "price": 1900000,
+    "transmission": "Automatic",
+    "fuel_type": "Hybrid",
+    "mileage": 27.9,
+    "engine": "1.5L Hybrid",
+    "safety_rating": 4.0,
+    "airbags": 6,
+    "adas": "None",
+    "boot_space_l": 373,
+    "ground_clearance_mm": 210,
+    "maintenance_cost_annual": 12000,
+    "service_cost_annual": 7500,
+    "reviews": [
+      "Outstanding city mileage",
+      "Low-stress ownership"
+    ],
+    "pros": [
+      "Best fuel efficiency",
+      "Low running cost",
+      "Strong resale"
+    ],
+    "cons": [
+      "Smaller boot",
+      "Not performance focused"
+    ],
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "image_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Tata",
+    "model": "Nexon",
+    "variant": "Fearless+ DCA",
+    "price": 1520000,
+    "transmission": "Automatic",
+    "fuel_type": "Petrol",
+    "mileage": 17.1,
+    "engine": "1.2L Turbo",
+    "safety_rating": 5.0,
+    "airbags": 6,
+    "adas": "None",
+    "boot_space_l": 382,
+    "ground_clearance_mm": 208,
+    "maintenance_cost_annual": 14000,
+    "service_cost_annual": 8500,
+    "reviews": [
+      "Strong safety reputation",
+      "Compact but practical"
+    ],
+    "pros": [
+      "Five-star safety",
+      "Compact city size",
+      "Turbo performance"
+    ],
+    "cons": [
+      "Rear seat narrower than midsize SUVs",
+      "DCA can feel busy in traffic"
+    ],
+    "body_type": "Compact SUV",
+    "seating_capacity": 5,
+    "image_url": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Mahindra",
+    "model": "XUV700",
+    "variant": "AX7 Diesel AT",
+    "price": 2450000,
+    "transmission": "Automatic",
+    "fuel_type": "Diesel",
+    "mileage": 16.6,
+    "engine": "2.2L Diesel",
+    "safety_rating": 5.0,
+    "airbags": 7,
+    "adas": "Level 2",
+    "boot_space_l": 240,
+    "ground_clearance_mm": 200,
+    "maintenance_cost_annual": 23000,
+    "service_cost_annual": 12000,
+    "reviews": [
+      "Powerful long-distance SUV",
+      "Advanced safety technology"
+    ],
+    "pros": [
+      "Strong performance",
+      "Seven-seat flexibility",
+      "ADAS suite"
+    ],
+    "cons": [
+      "Expensive",
+      "Higher maintenance",
+      "Limited boot with third row up"
+    ],
+    "body_type": "SUV",
+    "seating_capacity": 7,
+    "image_url": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Kia",
+    "model": "Seltos",
+    "variant": "GTX+ DCT",
+    "price": 2010000,
+    "transmission": "Automatic",
+    "fuel_type": "Petrol",
+    "mileage": 17.7,
+    "engine": "1.5L Turbo",
+    "safety_rating": 3.0,
+    "airbags": 6,
+    "adas": "Level 2",
+    "boot_space_l": 433,
+    "ground_clearance_mm": 190,
+    "maintenance_cost_annual": 18000,
+    "service_cost_annual": 10000,
+    "reviews": [
+      "Quick and feature-rich",
+      "Feels youthful and premium"
+    ],
+    "pros": [
+      "Strong turbo performance",
+      "Excellent features",
+      "ADAS available"
+    ],
+    "cons": [
+      "Average safety score",
+      "Higher running cost"
+    ],
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "image_url": "https://images.unsplash.com/photo-1603386329225-868f9b1ee6c9?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Urban Cruiser Hyryder",
+    "variant": "V Hybrid e-CVT",
+    "price": 2020000,
+    "transmission": "Automatic",
+    "fuel_type": "Hybrid",
+    "mileage": 27.9,
+    "engine": "1.5L Hybrid",
+    "safety_rating": 4.0,
+    "airbags": 6,
+    "adas": "None",
+    "boot_space_l": 373,
+    "ground_clearance_mm": 210,
+    "maintenance_cost_annual": 11500,
+    "service_cost_annual": 7500,
+    "reviews": [
+      "Efficient and dependable",
+      "Relaxed city use"
+    ],
+    "pros": [
+      "Hybrid efficiency",
+      "Toyota reliability",
+      "Low ownership stress"
+    ],
+    "cons": [
+      "Boot is compact",
+      "Premium pricing"
+    ],
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "image_url": "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Kushaq",
+    "variant": "Style 1.5 DSG",
+    "price": 1890000,
+    "transmission": "Automatic",
+    "fuel_type": "Petrol",
+    "mileage": 18.9,
+    "engine": "1.5L Turbo",
+    "safety_rating": 5.0,
+    "airbags": 6,
+    "adas": "None",
+    "boot_space_l": 385,
+    "ground_clearance_mm": 188,
+    "maintenance_cost_annual": 19000,
+    "service_cost_annual": 11000,
+    "reviews": [
+      "Fun to drive",
+      "Solid build quality"
+    ],
+    "pros": [
+      "Five-star safety",
+      "Strong performance",
+      "Stable highway feel"
+    ],
+    "cons": [
+      "Costlier service",
+      "Smaller cabin than some rivals"
+    ],
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "image_url": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Verna",
+    "variant": "SX(O) 1.5 Turbo DCT",
+    "price": 1740000,
+    "transmission": "Automatic",
+    "fuel_type": "Petrol",
+    "mileage": 20.6,
+    "engine": "1.5L Turbo",
+    "safety_rating": 5.0,
+    "airbags": 6,
+    "adas": "Level 2",
+    "boot_space_l": 528,
+    "ground_clearance_mm": 170,
+    "maintenance_cost_annual": 13000,
+    "service_cost_annual": 8500,
+    "reviews": [
+      "Best-in-class performance",
+      "Stunning design"
+    ],
+    "pros": [
+      "Powerful turbo engine",
+      "Class-leading boot space",
+      "Level 2 ADAS"
+    ],
+    "cons": [
+      "Low ground clearance",
+      "Polarizing looks"
+    ],
+    "body_type": "Sedan",
+    "seating_capacity": 5,
+    "image_url": "https://images.unsplash.com/photo-1620023058865-c335bb2a4a75?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Virtus",
+    "variant": "GT Plus 1.5 TSI DSG",
+    "price": 1940000,
+    "transmission": "Automatic",
+    "fuel_type": "Petrol",
+    "mileage": 18.67,
+    "engine": "1.5L Turbo",
+    "safety_rating": 5.0,
+    "airbags": 6,
+    "adas": "None",
+    "boot_space_l": 521,
+    "ground_clearance_mm": 179,
+    "maintenance_cost_annual": 16000,
+    "service_cost_annual": 10500,
+    "reviews": [
+      "Enthusiast's delight",
+      "Solid German engineering"
+    ],
+    "pros": [
+      "Outstanding driving dynamics",
+      "Five-star safety",
+      "Premium build quality"
+    ],
+    "cons": [
+      "Expensive maintenance",
+      "No ADAS options"
+    ],
+    "body_type": "Sedan",
+    "seating_capacity": 5,
+    "image_url": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Scorpio-N",
+    "variant": "Z8L Diesel AT 4WD",
+    "price": 2450000,
+    "transmission": "Automatic",
+    "fuel_type": "Diesel",
+    "mileage": 14.5,
+    "engine": "2.2L Diesel",
+    "safety_rating": 5.0,
+    "airbags": 6,
+    "adas": "None",
+    "boot_space_l": 460,
+    "ground_clearance_mm": 205,
+    "maintenance_cost_annual": 21000,
+    "service_cost_annual": 11500,
+    "reviews": [
+      "Dominating road presence",
+      "True go-anywhere capability"
+    ],
+    "pros": [
+      "Commanding seating position",
+      "Off-road capable",
+      "Robust diesel engine"
+    ],
+    "cons": [
+      "Bumpy ride at low speeds",
+      "Heavy steering in city"
+    ],
+    "body_type": "SUV",
+    "seating_capacity": 7,
+    "image_url": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Tata",
+    "model": "Safari",
+    "variant": "Accomplished+ Diesel AT",
+    "price": 2690000,
+    "transmission": "Automatic",
+    "fuel_type": "Diesel",
+    "mileage": 14.08,
+    "engine": "2.0L Diesel",
+    "safety_rating": 5.0,
+    "airbags": 7,
+    "adas": "Level 2",
+    "boot_space_l": 420,
+    "ground_clearance_mm": 205,
+    "maintenance_cost_annual": 22000,
+    "service_cost_annual": 12000,
+    "reviews": [
+      "Luxurious 3-row SUV",
+      "Plush ride quality"
+    ],
+    "pros": [
+      "Excellent ride quality",
+      "Spacious 3rd row",
+      "Comprehensive safety features"
+    ],
+    "cons": [
+      "Ergonomic quirks",
+      "Touch-heavy controls can be distracting"
+    ],
+    "body_type": "SUV",
+    "seating_capacity": 7,
+    "image_url": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "MG",
+    "model": "Hector",
+    "variant": "Sharp Pro 1.5 Turbo CVT",
+    "price": 2170000,
+    "transmission": "Automatic",
+    "fuel_type": "Petrol",
+    "mileage": 12.34,
+    "engine": "1.5L Turbo",
+    "safety_rating": 4.0,
+    "airbags": 6,
+    "adas": "Level 2",
+    "boot_space_l": 587,
+    "ground_clearance_mm": 192,
+    "maintenance_cost_annual": 18000,
+    "service_cost_annual": 9500,
+    "reviews": [
+      "Tech-loaded giant",
+      "Extremely spacious"
+    ],
+    "pros": [
+      "Massive infotainment screen",
+      "Huge cabin space",
+      "Panoramic sunroof"
+    ],
+    "cons": [
+      "Poor fuel economy",
+      "Soft suspension causes body roll"
+    ],
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "image_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Fronx",
+    "variant": "Alpha 1.0L Turbo AT",
+    "price": 1300000,
+    "transmission": "Automatic",
+    "fuel_type": "Petrol",
+    "mileage": 20.01,
+    "engine": "1.0L Turbo",
+    "safety_rating": 4.0,
+    "airbags": 6,
+    "adas": "None",
+    "boot_space_l": 308,
+    "ground_clearance_mm": 190,
+    "maintenance_cost_annual": 10000,
+    "service_cost_annual": 6500,
+    "reviews": [
+      "Stylish crossover",
+      "Peppy turbo engine"
+    ],
+    "pros": [
+      "Eye-catching design",
+      "Fun to drive turbo",
+      "Maruti reliability"
+    ],
+    "cons": [
+      "Rear headroom is tight",
+      "Cabin quality feels budget"
+    ],
+    "body_type": "Crossover",
+    "seating_capacity": 5,
+    "image_url": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Exter",
+    "variant": "SX(O) Connect AMT",
+    "price": 1020000,
+    "transmission": "Automatic",
+    "fuel_type": "Petrol",
+    "mileage": 19.2,
+    "engine": "1.2L",
+    "safety_rating": 4.0,
+    "airbags": 6,
+    "adas": "None",
+    "boot_space_l": 391,
+    "ground_clearance_mm": 185,
+    "maintenance_cost_annual": 9000,
+    "service_cost_annual": 6000,
+    "reviews": [
+      "Great city runabout",
+      "Packed with features"
+    ],
+    "pros": [
+      "Excellent feature list including dashcam",
+      "Standard 6 airbags",
+      "Smooth AMT"
+    ],
+    "cons": [
+      "Narrow cabin width",
+      "Highway performance is weak"
+    ],
+    "body_type": "Micro SUV",
+    "seating_capacity": 5,
+    "image_url": "https://images.unsplash.com/photo-1603386329225-868f9b1ee6c9?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Innova Hycross",
+    "variant": "ZX(O) Hybrid",
+    "price": 3050000,
+    "transmission": "Automatic",
+    "fuel_type": "Hybrid",
+    "mileage": 23.24,
+    "engine": "2.0L Hybrid",
+    "safety_rating": 5.0,
+    "airbags": 6,
+    "adas": "Level 2",
+    "boot_space_l": 300,
+    "ground_clearance_mm": 185,
+    "maintenance_cost_annual": 17000,
+    "service_cost_annual": 9500,
+    "reviews": [
+      "The ultimate family mover",
+      "Incredible hybrid efficiency"
+    ],
+    "pros": [
+      "Vast interior space",
+      "Extremely fuel-efficient for its size",
+      "Legendary reliability"
+    ],
+    "cons": [
+      "Very expensive",
+      "Interior plastics feel slightly cheap for the price"
+    ],
+    "body_type": "MUV",
+    "seating_capacity": 7,
+    "image_url": "https://images.unsplash.com/photo-1542362567-b07e54358753?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "MG",
+    "model": "Comet EV",
+    "variant": "Plush",
+    "price": 950000,
+    "transmission": "Automatic",
+    "fuel_type": "Electric",
+    "mileage": 230,
+    "engine": "Electric Motor",
+    "safety_rating": 3.0,
+    "airbags": 2,
+    "adas": "None",
+    "boot_space_l": 0,
+    "ground_clearance_mm": 165,
+    "maintenance_cost_annual": 4000,
+    "service_cost_annual": 2500,
+    "reviews": [
+      "Perfect urban runabout",
+      "Unique tech-gadget feel"
+    ],
+    "pros": [
+      "Extremely easy to park",
+      "Zero tailpipe emissions",
+      "Low running cost"
+    ],
+    "cons": [
+      "No boot space with 4 people",
+      "Strictly for city use"
+    ],
+    "body_type": "Hatchback",
+    "seating_capacity": 4,
+    "image_url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "brand": "Tata",
+    "model": "Punch EV",
+    "variant": "Empowered+ LR",
+    "price": 1450000,
+    "transmission": "Automatic",
+    "fuel_type": "Electric",
+    "mileage": 421,
+    "engine": "Electric Motor",
+    "safety_rating": 5.0,
+    "airbags": 6,
+    "adas": "None",
+    "boot_space_l": 366,
+    "ground_clearance_mm": 190,
+    "maintenance_cost_annual": 6000,
+    "service_cost_annual": 3500,
+    "reviews": [
+      "Game changer compact EV",
+      "Solid build"
+    ],
+    "pros": [
+      "Dedicated EV platform",
+      "Great city dynamics",
+      "Premium features"
+    ],
+    "cons": [
+      "Software bugs occasionally",
+      "Range drop on highways"
+    ],
+    "body_type": "Compact SUV",
+    "seating_capacity": 5,
+    "image_url": "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?auto=format&fit=crop&w=1200&q=80"
+  }
+]
