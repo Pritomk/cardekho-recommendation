@@ -18,9 +18,6 @@ class KnowledgeScheduler:
             return
         self.is_running = True
         
-        # Initial run on boot
-        await self._run_job()
-        
         self._task = asyncio.create_task(self._loop(interval_seconds))
 
     async def stop(self):
@@ -30,10 +27,11 @@ class KnowledgeScheduler:
 
     async def _loop(self, interval_seconds: int):
         while self.is_running:
+            # Run the heavy indexer job in a separate thread so it doesn't block Uvicorn startup
+            await asyncio.to_thread(self._run_job_sync)
             await asyncio.sleep(interval_seconds)
-            await self._run_job()
 
-    async def _run_job(self):
+    def _run_job_sync(self):
         print("Running Knowledge Indexer Job...")
         with SessionLocal() as db:
             repo = KnowledgeRepository(db)
